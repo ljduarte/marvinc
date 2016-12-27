@@ -1,0 +1,9 @@
+// This file sets the mathematical limits for the automatic integration routine. After modify it, do the "make" command again.
+
+float integration_threshold = 0.00000001; //Minimal increment of area. Default =0.00000001.
+
+float min_band_width = 10; // Minimal bandwidth. Default = 10.
+
+float noise_threshold = 100; // Indicates how much a signal must be greater than a noise point. Default = 100.  
+
+float area_threshold = 0.0000903; // Minimal band intensity. Default = 0.0000903 (0,5 km.mol-1)
