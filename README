@@ -1,0 +1,14 @@
+How to use:
+-------------------------------
+It is recommended to read the "User's Guide" to understand how the program works.
+You can change some configurations editing the "config" file. Remember: you must compile the program again after the modifications were made.
+To use the program, type: "MarvinC".To perform an automatic integration and save the integrated spectra images, call the program with the arguments: "MarvinC l hl".
+ 
+To compile the program:
+-------------------------------
+Be shure tha you have the gnuplot program installed.
+Run the "make".
+
+
+
+L. J. Duarte
