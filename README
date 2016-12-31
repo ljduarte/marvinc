@@ -6,7 +6,7 @@ To use the program, type: "MarvinC".To perform an automatic integration and save
  
 To compile the program:
 -------------------------------
-Be shure tha you have the gnuplot program installed.
+Be shure that you have the gnuplot program installed.
 Run the "make".
 
 
