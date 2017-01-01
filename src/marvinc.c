@@ -216,7 +216,7 @@ void main (int argc, char *argv[]){
 	  new_file[0] = '\0';
 	  mode[0] = '\0';
 	  do{
-	      printf ("Do you want to loading another file? (Y/N):  ");
+	      printf ("Do you want to load another file? (Y/N):  ");
 	      scanf ("%s", new_file);
 	      if (strcmp (new_file, "Y") != 0 && strcmp (new_file, "N") != 0){
 		  printf ("ERROR: Insert only N or Y. Try again!\n");};
