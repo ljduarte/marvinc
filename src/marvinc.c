@@ -65,7 +65,7 @@ void main (int argc, char *argv[]){
   fprintf (fp,"************         OUTPUT FROM MarvinC         *************\n");
   fprintf (fp,"************                                     *************\n");
   fprintf (fp,"**************************************************************\n\n");
-  fprintf (fp,"             L.J. DUARTE*, A.F. SILVA, R.E BRUNS              \n");
+  fprintf (fp,"      L.J. DUARTE*, A.F. SILVA, W. E. RICHTER, R.E BRUNS        \n");
   fprintf (fp,"    University of Campinas, Institute of Chemistry - 2016.    \n\n");
   fprintf (fp,"For details about the program and conversion factors,please\nsee Vib. Spectr. XX, XXXX (2016).\n\n");
   fprintf (fp,"Please note that the code just integrate the desired band \nwithout any concern about overlapping, overtones and\ncombination bands affecting the result. Be sure this issues\nwill not lead to any misinterpretation.");
