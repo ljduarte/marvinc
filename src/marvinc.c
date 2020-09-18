@@ -48,7 +48,7 @@ void main (int argc, char *argv[]){
   gnuplot_ctrl *z;
   a = 0;
 // Conversion Factors
-  float K = 974.864;		// km.amu.(mol.e^2)^-1
+  float K = 974.0864;		// km.amu.(mol.e^2)^-1
   double q = 23025.8509299405;	// cm-2.atm-1
   double w = 5668.18081627168;	// km.mol-1
   double e = 566818081627.168;	// cm.mmol-1
